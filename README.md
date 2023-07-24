@@ -6,4 +6,4 @@
 # 50 HTML, CSS, and JS sample project
 ## Project 7: Caracter Counter
 A Preview of the project output.
-![]()
+![](https://github.com/starsofchance/50-HTML-CSS-JS-Project-7/blob/main/Animation.gif)
